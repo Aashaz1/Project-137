@@ -1,0 +1,30 @@
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: 24px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.copyright-footer{
+    background-color: whitesmoke;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.note{
+    color: red;
+    font-size: 15px;
+}
+
+canvas{
+    border: black;
+    box-shadow: 5px 5px 10px black;
+}
